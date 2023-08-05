@@ -178,8 +178,6 @@ const makeShortURL = async (userUrl) => {
       }
     }
   } catch (error) {
-    // Incase Can't Connect To The Api [Ex: No Internet Connection]
-    alerts("Sorry, unknown error happened please try again later.");
   }
 };
 
