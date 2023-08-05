@@ -24,8 +24,8 @@ Users should able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bzkarim250/Shortly)
-- Live Site URL: [Add live site URL here](https://bzkarim250.github.io/Shortly/)
+- Solution URL: [https://github.com/bzkarim250/Shortly](https://github.com/bzkarim250/Shortly)
+- Live Site URL: [https://bzkarim250.github.io/Shortly/](https://bzkarim250.github.io/Shortly/)
 
 ### Built with
 
